@@ -11,7 +11,8 @@ For lowest level arithmetical expressions can be used arithm.<method>
 
 Usage examples:
 
-```arithm.getSum(4, 3) //otput: 7
+```
+arithm.getSum(4, 3) //otput: 7
 arithm.getDifference(9, 5) //otput: 4
 arithm.getProduct(2, 8) // output: 16
 arithm.getQuotient(12, 6) //otput: 2
