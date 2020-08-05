@@ -1,0 +1,26 @@
+{
+  "name": "@mvasilyeva/arithm",
+  "version": "1.0.0",
+  "description": "Simple arithmetical functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mia-v/arithm.git"
+  },
+  "keywords": [
+    "arithm",
+    "getSum",
+    "getDifference",
+    "getProduct",
+    "getQuotient"
+  ],
+  "author": "mvasilyeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mia-v/arithm/issues"
+  },
+  "homepage": "https://github.com/Mia-v/arithm#readme"
+}
