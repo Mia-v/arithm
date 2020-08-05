@@ -1,0 +1,19 @@
+{
+  "name": "@larchanka/aritm",
+  "version": "1.0.0",
+  "description": "A module with simple arithmetical functions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/larchanka/arithm.git"
+  },
+  "author": "Mikhail Larchanka <horrorgr@gmail.com> (https://www.mobila.name/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/larchanka/arithm/issues"
+  },
+  "homepage": "https://github.com/larchanka/arithm#readme"
+}
